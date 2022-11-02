@@ -1,1 +1,1 @@
-
+" delete from ewsa.assessment_due where status = 'P' or status ='D' or enrollment_status ='D'"
